@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "fairy-claudemother",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["/Users/briannahawkins/Desktop/PROJECTS/fairy-claudemother/.claude/devserver.py"],
+      "port": 4419
+    }
+  ]
+}
